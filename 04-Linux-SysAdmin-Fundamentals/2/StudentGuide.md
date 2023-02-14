@@ -407,6 +407,8 @@ To update the `/etc/sudoers` file, you must use the command `visudo`, which open
 
   - Using `visudo` to edit this file is necessary because `visudo` does a syntax check on the `sudoers` file before it is saved, to prevent corruption of the file.
 
+  - If your syntax is incorrect, `visudo` will identify the incorrect line and prompt `What Now?`  Type `e` to return to editing.
+
   - Breaking this file can lock you out of the system entirely, so you want to be sure to always use `visudo` to edit the file.
 
   - :warning: **Troubleshooting Help**:  If you break this file and get locked out of using `sudo`, review the following thread: 
