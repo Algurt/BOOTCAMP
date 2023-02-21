@@ -679,7 +679,7 @@ Display the specific scans Lynis offers by running:
   crypto
   ```
 
-You can run specific scans with the command `sudo lynis audit --test-from-group <test group>`. You will use this flag to schedule daily scans in the upcoming exercise.
+You can run specific scans with the command `sudo lynis audit system --test-from-group <test group>`. You will use this flag to schedule daily scans in the upcoming exercise.
 
 ### 09. Scheduling Backups and Cleanups
 

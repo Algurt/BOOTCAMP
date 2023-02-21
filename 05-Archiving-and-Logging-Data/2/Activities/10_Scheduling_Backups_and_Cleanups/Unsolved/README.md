@@ -28,7 +28,7 @@ In this exercise, you remain in your role as a junior administrator at Rezifp Ph
 
 **Bonus**: 
  
- - **A**.  Move the following scripts you wrote in the previous exercise to the appropriate `cron` directories in `/etc`. Specifically, your scripts should run at the following intervals:
+ - **A**.  Copy the following scripts you wrote in the previous exercise to the appropriate `cron` directories in `/etc`. Specifically, your scripts should run at the following intervals:
 
     - `cleanup.sh` should run daily.
 
