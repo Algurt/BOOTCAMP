@@ -11,11 +11,11 @@ In this activity, you will continue your role as a digital forensic investigator
 ### Instructions 
 1. Create custom tags for evidence that you deem relevant to the case, such as mail, IPs, address book, and SMS.
 
-    - Use the [iPhone Forensic Image: Important Databases and Files](https://docs.google.com/document/d/1LmqJeEarZkcYh67TPFUgDvk0p5wy7Ck-FcFSZ2GcFGc/edit#) PDF to select the content to tag. 
+    - Use the [iPhone Forensic Image: Important Databases and Files](https://docs.google.com/document/d/10CWGqTvu09mrSn7Tg7xoKNWBrjeW1wCmXoqB58xYr0k/edit?usp=sharing) PDF to select the content to tag. 
 
     - You can also bookmark and tag other files of interest.
 
 
 ----
 
-&copy; 2020 Trilogy Education Services, a 2U Inc Brand.   All Rights Reserved.
+&copy; 2022 edX Boot Camps LLC. Confidential and Proprietary.   All Rights Reserved.

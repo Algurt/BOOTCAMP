@@ -59,6 +59,6 @@
 
 ----
 
-&copy; 2020 Trilogy Education Services, a 2U Inc Brand.   All Rights Reserved.
+&copy; 2022 edX Boot Camps LLC. Confidential and Proprietary.   All Rights Reserved.
 
 

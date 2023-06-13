@@ -35,7 +35,7 @@ The lab should already be started, so you should be able to connect immediately.
  
 ### Slideshow
  
-- Slides for today's lesson can be found on Google Drive here: [21.2 Slides](https://docs.google.com/presentation/d/1UGL2eJeteWLQDshXw7CVS0NA1qR6KgptwwElUqL3L2M/edit#slide=id.g480f0dd0a7_0_1803).
+- Slides for today's lesson can be found on Google Drive here: [21.2 Slides](https://docs.google.com/presentation/d/1WjhbISMWET0GR2DB-kTNQSR_aDdnyqExv1f9IPP-6Ys/edit?usp=sharing).
 
 ---
  
@@ -423,4 +423,4 @@ Next, we'll demonstrate how to export an entire directory for offline viewing.
 
 ----
  
-&copy; 2020 Trilogy Education Services, a 2U Inc Brand.   All Rights Reserved.
+&copy; 2022 edX Boot Camps LLC. Confidential and Proprietary.   All Rights Reserved.

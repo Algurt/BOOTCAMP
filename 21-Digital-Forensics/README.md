@@ -72,4 +72,4 @@ This module's Challenged assignment can be viewed here:
 ----
  
 
-&copy; 2021 Trilogy Education Services, a 2U Inc Brand.   All Rights Reserved.
+&copy; 2022 edX Boot Camps LLC. Confidential and Proprietary.   All Rights Reserved.

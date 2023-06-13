@@ -39,7 +39,7 @@ Refer to the [lab setup instructions](https://cyberxsecurity.gitlab.io/documenta
  
 ### Slideshow
  
-- [21.1 Slides](https://docs.google.com/presentation/d/1Ble9WWgKaFb7lyXEwZ4Acd1bxNJeEua-SzDPXslHU2Q/edit).
+- [21.1 Slides](https://docs.google.com/presentation/d/18O5HUetLZbSqfoKP9z3X-qFuTF9mgmrIU52rVK7_1oE/edit#slide=id.g87973c3c06_1_2815).
  
 ---
  
@@ -685,7 +685,7 @@ In the next class, we'll continue our investigation using Autopsy to analyze art
 
 ---
 
-&copy; 2020 Trilogy Education Services, a 2U Inc Brand.   All Rights Reserved.
+&copy; 2022 edX Boot Camps LLC. Confidential and Proprietary.   All Rights Reserved.
 
 
 
